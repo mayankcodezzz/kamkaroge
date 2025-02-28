@@ -1,6 +1,7 @@
 # Kamkaroge is an react native app for job search based on location
 
-![Screenshot (32)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/4a7bf089-3eaa-480f-bc4a-256225ac2f00)
+![Screenshot (30)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/5e4ce677-9e26-4631-a819-b8dc94f4d43c)
+
 
 ## 🚀 How to use
 ![Screenshot (31)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/162e4c0b-1cc6-4dfc-b327-79c34fa5743d)
@@ -9,7 +10,7 @@
 
 ![Screenshot (36)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/9897851a-d2fc-4b93-81b4-3b20b3f3e1f4)
 
-![Screenshot (30)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/5e4ce677-9e26-4631-a819-b8dc94f4d43c)
+![Screenshot (32)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/4a7bf089-3eaa-480f-bc4a-256225ac2f00)
 
 ![Screenshot (38)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/f5e8102b-b92e-47f7-b61e-828ac70e115d)
 
