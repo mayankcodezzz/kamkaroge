@@ -18,12 +18,3 @@
 ![Screenshot (37)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/af2f6b36-8a22-4976-86f0-80211ec1a95d)
 
 ![Screenshot (39)](https://github.com/mayankcodezzz/kamkaroge/assets/87845012/a4962dc1-5800-4394-8866-f41097540fdd)
-
-
-
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
